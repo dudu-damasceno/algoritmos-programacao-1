@@ -1,0 +1,38 @@
+Campo 1000 x 1000
+Cada jogador coloca 300000 barcos
+
+Jogador A coloca barcos:
+(790, 779)
+(513, 398)
+(604, 141)
+(803, 570)
+(268, 855)
+...
+
+Jogador B coloca barcos:
+(426, 763)
+(182, 105)
+(221, 270)
+(786, 120)
+(543, 488)
+...
+
+Cada jogador vai dar 300000 tiros
+
+Jogador A atira:
+(393, 919)
+(543, 797)
+(235, 714)
+(361, 491)
+(353, 616)
+...
+
+Jogador B atira:
+(681, 290)
+(934, 454)
+(83, 455)
+(9, 619)
+(652, 535)
+...
+
+Resultado: Jogador A acertou 90279 e Jogador B 90040

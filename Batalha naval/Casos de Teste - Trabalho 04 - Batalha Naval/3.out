@@ -1,0 +1,38 @@
+Campo 10000 x 10000
+Cada jogador coloca 400000 barcos
+
+Jogador A coloca barcos:
+(2259, 9998)
+(5720, 9615)
+(9382, 8493)
+(3057, 3796)
+(2908, 1722)
+...
+
+Jogador B coloca barcos:
+(6954, 5499)
+(5560, 2950)
+(5785, 7444)
+(4422, 5620)
+(6496, 6859)
+...
+
+Cada jogador vai dar 500000 tiros
+
+Jogador A atira:
+(5038, 2062)
+(7097, 8384)
+(3676, 5407)
+(422, 233)
+(5176, 50)
+...
+
+Jogador B atira:
+(5601, 484)
+(9876, 2281)
+(2558, 5642)
+(543, 1087)
+(9327, 5915)
+...
+
+Resultado: Jogador A acertou 1944 e Jogador B 2002

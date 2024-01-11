@@ -1,0 +1,38 @@
+Campo 5000 x 5000
+Cada jogador coloca 400000 barcos
+
+Jogador A coloca barcos:
+(2900, 1275)
+(1669, 868)
+(1399, 764)
+(4218, 3159)
+(2868, 4723)
+...
+
+Jogador B coloca barcos:
+(579, 2795)
+(840, 2728)
+(4332, 4651)
+(876, 160)
+(4648, 3736)
+...
+
+Cada jogador vai dar 400000 tiros
+
+Jogador A atira:
+(3909, 2579)
+(4379, 2857)
+(3798, 3183)
+(1308, 2319)
+(4391, 3606)
+...
+
+Jogador B atira:
+(4178, 943)
+(3779, 1834)
+(4216, 2878)
+(4007, 2138)
+(3634, 2587)
+...
+
+Resultado: Jogador A acertou 6483 e Jogador B 6378
